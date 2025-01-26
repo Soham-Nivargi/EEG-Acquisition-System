@@ -1,0 +1,81 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+ADS1299IPAG QFP50P1200X1200X120-64N I ANA 7 1 0 0 0
+TIMESTAMP 2024.03.04.09.56.24
+"Mouser Part Number" 595-ADS1299IPAG
+"Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ADS1299IPAG?qs=g9Q%2FF7kJgMyNB%2Fl7Pgr%252B%252BA%3D%3D
+"Manufacturer_Name" Texas Instruments
+"Manufacturer_Part_Number" ADS1299IPAG
+"Description" Low-Noise, 8-Channel, 24-Bit Analog-to-Digital Converter for Biopotential Measurements
+"Datasheet Link" http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=ADS1299&&fileType=pdf
+"Geometry.Height" 1.2mm
+GATE 1 64 0
+ADS1299IPAG
+1 0 U IN8N
+2 0 U IN8P
+3 0 U IN7N
+4 0 U IN7P
+5 0 U IN6N
+6 0 U IN6P
+7 0 U IN5N
+8 0 U IN5P
+9 0 U IN4N
+10 0 U IN4P
+11 0 U IN3N
+12 0 U IN3P
+13 0 U IN2N
+14 0 U IN2P
+15 0 U IN1N
+16 0 U IN1P
+17 0 U SRB1
+18 0 U SRB2
+19 0 U AVDD_1
+20 0 U AVSS_1
+21 0 U AVDD_2
+22 0 U AVDD_3
+23 0 U AVSS_2
+24 0 U VREFP
+25 0 U VREFN
+26 0 U VCAP4
+27 0 U NC_1
+28 0 U VCAP1
+29 0 U NC_2
+30 0 U VCAP2
+31 0 U RESV1
+32 0 U AVSS_3
+33 0 U DGND_1
+34 0 U DIN
+35 0 U \PWDN
+36 0 U \RESET
+37 0 U CLK
+38 0 U START
+39 0 U \CS
+40 0 U SCLK
+41 0 U DAISY_IN
+42 0 U GPIO1
+43 0 U DOUT
+44 0 U GPIO2
+45 0 U GPIO3
+46 0 U GPIO4
+47 0 U \DRDY
+48 0 U DVDD_1
+49 0 U DGND_2
+50 0 U DVDD_2
+51 0 U DGND_3
+52 0 U CLKSEL
+53 0 U AVSS1
+54 0 U AVDD1
+55 0 U VCAP3
+56 0 U AVDD_4
+57 0 U AVSS_4
+58 0 U AVSS_5
+59 0 U AVDD_5
+60 0 U BIASREF
+61 0 U BIASINV
+62 0 U BIASIN
+63 0 U BIASOUT
+64 0 U RESERVED
+
+*END*
+*REMARK* SamacSys ECAD Model
+303971/1341551/2.50/64/4/Integrated Circuit

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS1299IPAG
+D Low-Noise, 8-Channel, 24-Bit Analog-to-Digital Converter for Biopotential Measurements
+K
+F http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=ADS1299&&fileType=pdf
+$ENDCMP
+#
+#End Doc Library

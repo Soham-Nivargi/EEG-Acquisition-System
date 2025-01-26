@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADS1299IPAG'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "ADS1299IPAG" (!) = "", "QFP50P1200X1200X120-64N", "Quad Flat Packages", "595-ADS1299IPAG", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ADS1299IPAG?qs=g9Q%2FF7kJgMyNB%2Fl7Pgr%252B%252BA%3D%3D", "Low-Noise, 8-Channel, 24-Bit Analog-to-Digital Converter for Biopotential Measurements", "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=ADS1299&&fileType=pdf", "1.2 mm"
+END_PART
+
+END.

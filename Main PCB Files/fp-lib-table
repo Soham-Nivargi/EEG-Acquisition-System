@@ -1,0 +1,13 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "oscil")(type "KiCad")(uri "/Users/sohamnivargi/Documents/GitHub/EEG-EDL-Project-Grp-14/LIB_830016178/830016178/KiCad")(options "")(descr ""))
+  (lib (name "reg_bank")(type "KiCad")(uri "/Users/sohamnivargi/Documents/GitHub/EEG-EDL-Project-Grp-14/ESD_schematic/CAY16_2201F4LF/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "cap_bank")(type "KiCad")(uri "/Users/sohamnivargi/Documents/GitHub/EEG-EDL-Project-Grp-14/LIB_W3A41C102MAT2A/W3A41C102MAT2A/KiCad")(options "")(descr ""))
+  (lib (name "apk")(type "KiCad")(uri "/Users/sohamnivargi/Documents/GitHub/EEG-EDL-Project-Grp-14/AP2112K - 3.3")(options "")(descr ""))
+  (lib (name "LM2665")(type "KiCad")(uri "/Users/sohamnivargi/Documents/GitHub/EEG-EDL-Project-Grp-14/lm2665")(options "")(descr ""))
+  (lib (name "TPS")(type "KiCad")(uri "/Users/sohamnivargi/Documents/GitHub/EEG-EDL-Project-Grp-14/tps")(options "")(descr ""))
+  (lib (name "TLV")(type "KiCad")(uri "/Users/sohamnivargi/Documents/GitHub/EEG-EDL-Project-Grp-14/tlv")(options "")(descr ""))
+  (lib (name "TPD")(type "KiCad")(uri "/Users/sohamnivargi/Documents/GitHub/EEG-EDL-Project-Grp-14/ESD_schematic/TPD4E1B06DCKR")(options "")(descr ""))
+  (lib (name "ADS1299")(type "KiCad")(uri "/Users/sohamnivargi/Documents/GitHub/EEG-EDL-Project-Grp-14/LIB_ADS1299IPAG/ADS1299IPAG/KiCad")(options "")(descr ""))
+  (lib (name "STM32")(type "KiCad")(uri "/Users/sohamnivargi/Documents/GitHub/EEG-EDL-Project-Grp-14/stm32/STM32F103C8T6TR/KiCad")(options "")(descr ""))
+)

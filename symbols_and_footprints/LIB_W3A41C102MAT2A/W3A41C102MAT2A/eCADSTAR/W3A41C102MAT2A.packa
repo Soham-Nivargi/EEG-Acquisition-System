@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "W3A41C102MAT2A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-02-01-08:45:29)
+    (mountForm default
+        (footprintRef "W3A41C102MAT2A")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32F103C8T6TR
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=48
+Version=2.1
+Released=2017-07-10 11:52:27
+Downloaded=2024-03-14 12:56:31
+3D=Y

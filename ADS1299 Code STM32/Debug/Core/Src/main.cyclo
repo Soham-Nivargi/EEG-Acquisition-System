@@ -1,0 +1,9 @@
+../Core/Src/main.c:72:6:delay_try	2
+../Core/Src/main.c:78:9:rreg_command	1
+../Core/Src/main.c:96:6:wrreg_command	1
+../Core/Src/main.c:139:5:main	5
+../Core/Src/main.c:788:6:SystemClock_Config	3
+../Core/Src/main.c:827:13:MX_SPI1_Init	2
+../Core/Src/main.c:865:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:898:13:MX_GPIO_Init	1
+../Core/Src/main.c:958:6:Error_Handler	1

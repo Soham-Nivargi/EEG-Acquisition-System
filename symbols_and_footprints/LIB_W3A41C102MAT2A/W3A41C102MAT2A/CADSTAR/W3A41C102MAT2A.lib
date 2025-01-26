@@ -1,0 +1,16 @@
+.W3A41C102MAT2A :1 ;Capacitor Arrays & Networks 100V 1000pF 20% 4cap X7R
+W3A41C102MAT2A
+*STM CN
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8"
+*MXP 8
+*DFN W3A41C102MAT2A
+~!Mouser Part Number (581-W3A41C102MAT2A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/AVX/W3A41C102MAT2A?qs=T8npLvK5duFciNXOOQ%252BBfQ%3D%3D)
+~!Manufacturer_Name (AVX)
+~!Manufacturer_Part_Number (W3A41C102MAT2A)
+~!Link Datasheet (https://datasheets.kyocera-avx.com/CapArray.pdf)
+~!Height (1.35mm)
+~!3D_Model (W3A41C102MAT2A)
+W3A41C102MAT2A
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

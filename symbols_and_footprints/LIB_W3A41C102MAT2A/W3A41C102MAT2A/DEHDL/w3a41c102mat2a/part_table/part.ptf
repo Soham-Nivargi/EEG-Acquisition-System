@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'W3A41C102MAT2A'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "AVX", "W3A41C102MAT2A" (!) = "", "W3A41C102MAT2A", "Other", "581-W3A41C102MAT2A", "https://www.mouser.co.uk/ProductDetail/AVX/W3A41C102MAT2A?qs=T8npLvK5duFciNXOOQ%252BBfQ%3D%3D", "Capacitor Arrays & Networks 100V 1000pF 20% 4cap X7R", "https://datasheets.kyocera-avx.com/CapArray.pdf", "1.35 mm"
+END_PART
+
+END.

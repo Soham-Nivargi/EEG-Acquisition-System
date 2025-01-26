@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32F103C8T6TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "MTBF", "POWER", "SLOPE", "SUBTYPE", "PACKAGE", "RJA", "IOUT_MAX", "IOUT_MIN", "ICC", "IGND", "RCA", "RJC", "ICCQ", "TECHNOLOGY", "VDD_MAX", "VDD_MIN";
+{========================================================================================}
+ "STMicroelectronics", "STM32F103C8T6TR" (!) = "", "QFP50P900X900X160-48N", "Quad Flat Packages", "511-STM32F103C8T6TR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32F103C8T6TR?qs=5HwTSiuA5HDxFj62n06yag%3D%3D", "ARM Microcontrollers - MCU 32BIT Cortex M3 USB 7 TIMERS 2 ADCS CAN", "http://media.digikey.com/pdf/Data%20Sheets/ST%20Microelectronics%20PDFS/STM32F103x8,B.pdf", "1.6 mm", "150", "", "363m", "", "MCU SMD", "LQFP-48", "55", "25m", "25m", "150m", "", "", "", "", "CMOS_TTL", "4", "-0.3"
+END_PART
+
+END.

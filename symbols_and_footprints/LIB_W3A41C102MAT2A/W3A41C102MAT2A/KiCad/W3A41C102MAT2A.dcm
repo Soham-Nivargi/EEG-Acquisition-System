@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP W3A41C102MAT2A
+D Capacitor Arrays & Networks 100V 1000pF 20% 4cap X7R
+K
+F https://datasheets.kyocera-avx.com/CapArray.pdf
+$ENDCMP
+#
+#End Doc Library

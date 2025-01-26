@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "W3A41C102MAT2A"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "W3A41C102MAT2A")
+        (spec "default")
+    )
+)

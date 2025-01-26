@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\91999\Downloads\hello\wien_bridge_oscillator\ESD_schematic\ESD_schematic.kicad_sch</source>
+    <date>12-02-2024 16:13:50</date>
+    <tool>Eeschema 7.0.10</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>ESD_schematic.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>CKCL44X7R1H102M085AA</value>
+      <footprint>CKCL44X7R1H102M085AA:CAPCAF50P200X125X85-8</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=eda</field>
+        <field name="Description">
+1000pF Isolated Capacitor Array 50V X7R 0805 (2012 Metric)
+</field>
+        <field name="MANUFACTURER">TDK</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.85 mm</field>
+        <field name="MF">TDK</field>
+        <field name="MP">CKCL44X7R1H102M085AA</field>
+        <field name="PARTREV">Dec 2014</field>
+        <field name="Package">0805 TDK Corporation</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="CKCL44X7R1H102M085AA" part="CKCL44X7R1H102M085AA" description=""/>
+      <property name="MF" value="TDK"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.85 mm"/>
+      <property name="Package" value="0805 TDK Corporation"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="Dec 2014"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=snap"/>
+      <property name="MP" value="CKCL44X7R1H102M085AA"/>
+      <property name="Description" value="&#xA;1000pF Isolated Capacitor Array 50V X7R 0805 (2012 Metric)&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="TDK"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESD_schematic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>037ed7fd-3968-453f-bd4f-294f1335bf2c</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>CKCL44X7R1H102M085AA</value>
+      <footprint>CKCL44X7R1H102M085AA:CAPCAF50P200X125X85-8</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=eda</field>
+        <field name="Description">
+1000pF Isolated Capacitor Array 50V X7R 0805 (2012 Metric)
+</field>
+        <field name="MANUFACTURER">TDK</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.85 mm</field>
+        <field name="MF">TDK</field>
+        <field name="MP">CKCL44X7R1H102M085AA</field>
+        <field name="PARTREV">Dec 2014</field>
+        <field name="Package">0805 TDK Corporation</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="CKCL44X7R1H102M085AA" part="CKCL44X7R1H102M085AA" description=""/>
+      <property name="MF" value="TDK"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.85 mm"/>
+      <property name="Package" value="0805 TDK Corporation"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="Dec 2014"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=snap"/>
+      <property name="MP" value="CKCL44X7R1H102M085AA"/>
+      <property name="Description" value="&#xA;1000pF Isolated Capacitor Array 50V X7R 0805 (2012 Metric)&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="TDK"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESD_schematic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd83d6b2-36cb-4864-ad9a-bd1777ad08b6</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>CKCL44X7R1H102M085AA</value>
+      <footprint>CKCL44X7R1H102M085AA:CAPCAF50P200X125X85-8</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=eda</field>
+        <field name="Description">
+1000pF Isolated Capacitor Array 50V X7R 0805 (2012 Metric)
+</field>
+        <field name="MANUFACTURER">TDK</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.85 mm</field>
+        <field name="MF">TDK</field>
+        <field name="MP">CKCL44X7R1H102M085AA</field>
+        <field name="PARTREV">Dec 2014</field>
+        <field name="Package">0805 TDK Corporation</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="CKCL44X7R1H102M085AA" part="CKCL44X7R1H102M085AA" description=""/>
+      <property name="MF" value="TDK"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.85 mm"/>
+      <property name="Package" value="0805 TDK Corporation"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="Dec 2014"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=snap"/>
+      <property name="MP" value="CKCL44X7R1H102M085AA"/>
+      <property name="Description" value="&#xA;1000pF Isolated Capacitor Array 50V X7R 0805 (2012 Metric)&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="TDK"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESD_schematic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f97f9f9-60c5-4a2f-b6da-bf6bde072e8c</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>CKCL44X7R1H102M085AA</value>
+      <footprint>CKCL44X7R1H102M085AA:CAPCAF50P200X125X85-8</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=eda</field>
+        <field name="Description">
+1000pF Isolated Capacitor Array 50V X7R 0805 (2012 Metric)
+</field>
+        <field name="MANUFACTURER">TDK</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.85 mm</field>
+        <field name="MF">TDK</field>
+        <field name="MP">CKCL44X7R1H102M085AA</field>
+        <field name="PARTREV">Dec 2014</field>
+        <field name="Package">0805 TDK Corporation</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="CKCL44X7R1H102M085AA" part="CKCL44X7R1H102M085AA" description=""/>
+      <property name="MF" value="TDK"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.85 mm"/>
+      <property name="Package" value="0805 TDK Corporation"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="Dec 2014"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=snap"/>
+      <property name="MP" value="CKCL44X7R1H102M085AA"/>
+      <property name="Description" value="&#xA;1000pF Isolated Capacitor Array 50V X7R 0805 (2012 Metric)&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="TDK"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESD_schematic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>044c3b6c-efc6-4fbc-8efc-dd58857eeca5</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>CKCL44X7R1H102M085AA</value>
+      <footprint>CKCL44X7R1H102M085AA:CAPCAF50P200X125X85-8</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=eda</field>
+        <field name="Description">
+1000pF Isolated Capacitor Array 50V X7R 0805 (2012 Metric)
+</field>
+        <field name="MANUFACTURER">TDK</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.85 mm</field>
+        <field name="MF">TDK</field>
+        <field name="MP">CKCL44X7R1H102M085AA</field>
+        <field name="PARTREV">Dec 2014</field>
+        <field name="Package">0805 TDK Corporation</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="CKCL44X7R1H102M085AA" part="CKCL44X7R1H102M085AA" description=""/>
+      <property name="MF" value="TDK"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.85 mm"/>
+      <property name="Package" value="0805 TDK Corporation"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="Dec 2014"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=snap"/>
+      <property name="MP" value="CKCL44X7R1H102M085AA"/>
+      <property name="Description" value="&#xA;1000pF Isolated Capacitor Array 50V X7R 0805 (2012 Metric)&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="TDK"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESD_schematic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2723d3d-5624-48f5-9df1-64a1b85b11fc</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>TPD4E1B06DCKR</value>
+      <footprint>TPD4E1B06DCKR:TVS_TPD4E1B06DCKR</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=eda</field>
+        <field name="Description">
+Quad 0.7-pF, ±5.5-V, ±12-kV ESD protection diode with 0.5-nA max leakage in SOT &amp; SC70 packages
+</field>
+        <field name="MANUFACTURER">Texas Instruments</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.1 mm</field>
+        <field name="MF">Texas Instruments</field>
+        <field name="MP">TPD4E1B06DCKR</field>
+        <field name="PARTREV">C</field>
+        <field name="Package">SOT-SC70-6 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=46121&amp;manufacturer=Texas Instruments&amp;part_name=TPD4E1B06DCKR&amp;search_term=tpd4e1b06dckr</field>
+        <field name="SNAPEDA_PN">TPD4E1B06DCKR</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="TPD4E1B06DCKR" part="TPD4E1B06DCKR" description=""/>
+      <property name="MF" value="Texas Instruments"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.1 mm"/>
+      <property name="Package" value="SOT-SC70-6 Texas Instruments"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=snap"/>
+      <property name="MP" value="TPD4E1B06DCKR"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=46121&amp;manufacturer=Texas Instruments&amp;part_name=TPD4E1B06DCKR&amp;search_term=tpd4e1b06dckr"/>
+      <property name="Description" value="&#xA;Quad 0.7-pF, ±5.5-V, ±12-kV ESD protection diode with 0.5-nA max leakage in SOT &amp; SC70 packages&#xA;"/>
+      <property name="MANUFACTURER" value="Texas Instruments"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="SNAPEDA_PN" value="TPD4E1B06DCKR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESD_schematic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd0d89bc-1ef6-4fe6-9cbd-1c14e430a644</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>TPD4E1B06DCKR</value>
+      <footprint>TPD4E1B06DCKR:TVS_TPD4E1B06DCKR</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=eda</field>
+        <field name="Description">
+Quad 0.7-pF, ±5.5-V, ±12-kV ESD protection diode with 0.5-nA max leakage in SOT &amp; SC70 packages
+</field>
+        <field name="MANUFACTURER">Texas Instruments</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.1 mm</field>
+        <field name="MF">Texas Instruments</field>
+        <field name="MP">TPD4E1B06DCKR</field>
+        <field name="PARTREV">C</field>
+        <field name="Package">SOT-SC70-6 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=46121&amp;manufacturer=Texas Instruments&amp;part_name=TPD4E1B06DCKR&amp;search_term=tpd4e1b06dckr</field>
+        <field name="SNAPEDA_PN">TPD4E1B06DCKR</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="TPD4E1B06DCKR" part="TPD4E1B06DCKR" description=""/>
+      <property name="MF" value="Texas Instruments"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.1 mm"/>
+      <property name="Package" value="SOT-SC70-6 Texas Instruments"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=snap"/>
+      <property name="MP" value="TPD4E1B06DCKR"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=46121&amp;manufacturer=Texas Instruments&amp;part_name=TPD4E1B06DCKR&amp;search_term=tpd4e1b06dckr"/>
+      <property name="Description" value="&#xA;Quad 0.7-pF, ±5.5-V, ±12-kV ESD protection diode with 0.5-nA max leakage in SOT &amp; SC70 packages&#xA;"/>
+      <property name="MANUFACTURER" value="Texas Instruments"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="SNAPEDA_PN" value="TPD4E1B06DCKR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESD_schematic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce142366-d3d2-4a2b-88e5-67c0fcb2d6e3</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>TPD4E1B06DCKR</value>
+      <footprint>TPD4E1B06DCKR:TVS_TPD4E1B06DCKR</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=eda</field>
+        <field name="Description">
+Quad 0.7-pF, ±5.5-V, ±12-kV ESD protection diode with 0.5-nA max leakage in SOT &amp; SC70 packages
+</field>
+        <field name="MANUFACTURER">Texas Instruments</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.1 mm</field>
+        <field name="MF">Texas Instruments</field>
+        <field name="MP">TPD4E1B06DCKR</field>
+        <field name="PARTREV">C</field>
+        <field name="Package">SOT-SC70-6 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=46121&amp;manufacturer=Texas Instruments&amp;part_name=TPD4E1B06DCKR&amp;search_term=tpd4e1b06dckr</field>
+        <field name="SNAPEDA_PN">TPD4E1B06DCKR</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="TPD4E1B06DCKR" part="TPD4E1B06DCKR" description=""/>
+      <property name="MF" value="Texas Instruments"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.1 mm"/>
+      <property name="Package" value="SOT-SC70-6 Texas Instruments"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=snap"/>
+      <property name="MP" value="TPD4E1B06DCKR"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=46121&amp;manufacturer=Texas Instruments&amp;part_name=TPD4E1B06DCKR&amp;search_term=tpd4e1b06dckr"/>
+      <property name="Description" value="&#xA;Quad 0.7-pF, ±5.5-V, ±12-kV ESD protection diode with 0.5-nA max leakage in SOT &amp; SC70 packages&#xA;"/>
+      <property name="MANUFACTURER" value="Texas Instruments"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="SNAPEDA_PN" value="TPD4E1B06DCKR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESD_schematic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c87f3887-e51a-44a2-947f-891668c8c689</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>TPD4E1B06DCKR</value>
+      <footprint>TPD4E1B06DCKR:TVS_TPD4E1B06DCKR</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=eda</field>
+        <field name="Description">
+Quad 0.7-pF, ±5.5-V, ±12-kV ESD protection diode with 0.5-nA max leakage in SOT &amp; SC70 packages
+</field>
+        <field name="MANUFACTURER">Texas Instruments</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.1 mm</field>
+        <field name="MF">Texas Instruments</field>
+        <field name="MP">TPD4E1B06DCKR</field>
+        <field name="PARTREV">C</field>
+        <field name="Package">SOT-SC70-6 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=46121&amp;manufacturer=Texas Instruments&amp;part_name=TPD4E1B06DCKR&amp;search_term=tpd4e1b06dckr</field>
+        <field name="SNAPEDA_PN">TPD4E1B06DCKR</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="TPD4E1B06DCKR" part="TPD4E1B06DCKR" description=""/>
+      <property name="MF" value="Texas Instruments"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.1 mm"/>
+      <property name="Package" value="SOT-SC70-6 Texas Instruments"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=snap"/>
+      <property name="MP" value="TPD4E1B06DCKR"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=46121&amp;manufacturer=Texas Instruments&amp;part_name=TPD4E1B06DCKR&amp;search_term=tpd4e1b06dckr"/>
+      <property name="Description" value="&#xA;Quad 0.7-pF, ±5.5-V, ±12-kV ESD protection diode with 0.5-nA max leakage in SOT &amp; SC70 packages&#xA;"/>
+      <property name="MANUFACTURER" value="Texas Instruments"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="SNAPEDA_PN" value="TPD4E1B06DCKR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESD_schematic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>188abdd7-88ce-4c63-8e4d-443c6a857d49</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>TPD4E1B06DCKR</value>
+      <footprint>TPD4E1B06DCKR:TVS_TPD4E1B06DCKR</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=eda</field>
+        <field name="Description">
+Quad 0.7-pF, ±5.5-V, ±12-kV ESD protection diode with 0.5-nA max leakage in SOT &amp; SC70 packages
+</field>
+        <field name="MANUFACTURER">Texas Instruments</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.1 mm</field>
+        <field name="MF">Texas Instruments</field>
+        <field name="MP">TPD4E1B06DCKR</field>
+        <field name="PARTREV">C</field>
+        <field name="Package">SOT-SC70-6 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=46121&amp;manufacturer=Texas Instruments&amp;part_name=TPD4E1B06DCKR&amp;search_term=tpd4e1b06dckr</field>
+        <field name="SNAPEDA_PN">TPD4E1B06DCKR</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="TPD4E1B06DCKR" part="TPD4E1B06DCKR" description=""/>
+      <property name="MF" value="Texas Instruments"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.1 mm"/>
+      <property name="Package" value="SOT-SC70-6 Texas Instruments"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=snap"/>
+      <property name="MP" value="TPD4E1B06DCKR"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=46121&amp;manufacturer=Texas Instruments&amp;part_name=TPD4E1B06DCKR&amp;search_term=tpd4e1b06dckr"/>
+      <property name="Description" value="&#xA;Quad 0.7-pF, ±5.5-V, ±12-kV ESD protection diode with 0.5-nA max leakage in SOT &amp; SC70 packages&#xA;"/>
+      <property name="MANUFACTURER" value="Texas Instruments"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="SNAPEDA_PN" value="TPD4E1B06DCKR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESD_schematic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b085eb49-b0a5-4bca-8068-15a8f20f4d9d</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>TPD4E1B06DCKR</value>
+      <footprint>TPD4E1B06DCKR:TVS_TPD4E1B06DCKR</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=eda</field>
+        <field name="Description">
+Quad 0.7-pF, ±5.5-V, ±12-kV ESD protection diode with 0.5-nA max leakage in SOT &amp; SC70 packages
+</field>
+        <field name="MANUFACTURER">Texas Instruments</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.1 mm</field>
+        <field name="MF">Texas Instruments</field>
+        <field name="MP">TPD4E1B06DCKR</field>
+        <field name="PARTREV">C</field>
+        <field name="Package">SOT-SC70-6 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=46121&amp;manufacturer=Texas Instruments&amp;part_name=TPD4E1B06DCKR&amp;search_term=tpd4e1b06dckr</field>
+        <field name="SNAPEDA_PN">TPD4E1B06DCKR</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="TPD4E1B06DCKR" part="TPD4E1B06DCKR" description=""/>
+      <property name="MF" value="Texas Instruments"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.1 mm"/>
+      <property name="Package" value="SOT-SC70-6 Texas Instruments"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=snap"/>
+      <property name="MP" value="TPD4E1B06DCKR"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=46121&amp;manufacturer=Texas Instruments&amp;part_name=TPD4E1B06DCKR&amp;search_term=tpd4e1b06dckr"/>
+      <property name="Description" value="&#xA;Quad 0.7-pF, ±5.5-V, ±12-kV ESD protection diode with 0.5-nA max leakage in SOT &amp; SC70 packages&#xA;"/>
+      <property name="MANUFACTURER" value="Texas Instruments"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="SNAPEDA_PN" value="TPD4E1B06DCKR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESD_schematic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de0fe3c1-8ef3-4407-883e-6268a0c8f55b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>CAY16-2201F4LF</value>
+      <footprint>CAY16_BRN</footprint>
+      <datasheet>CAY16-2201F4LF</datasheet>
+      <libsource lib="CAY16-2201F4LF" part="CAY16-2201F4LF" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESD_schematic.kicad_sch"/>
+      <property name="ki_keywords" value="CAY16-2201F4LF"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc55ee31-479d-4503-8c7c-8947335bfdc0</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>CAY16-2201F4LF</value>
+      <footprint>CAY16_BRN</footprint>
+      <datasheet>CAY16-2201F4LF</datasheet>
+      <libsource lib="CAY16-2201F4LF" part="CAY16-2201F4LF" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESD_schematic.kicad_sch"/>
+      <property name="ki_keywords" value="CAY16-2201F4LF"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bc122d2-56a5-49e0-a812-1ca1d34e8f96</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>CAY16-2201F4LF</value>
+      <footprint>CAY16_BRN</footprint>
+      <datasheet>CAY16-2201F4LF</datasheet>
+      <libsource lib="CAY16-2201F4LF" part="CAY16-2201F4LF" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESD_schematic.kicad_sch"/>
+      <property name="ki_keywords" value="CAY16-2201F4LF"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ef421d4-0db5-4a8e-ae5c-a5f2ac54dfb2</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>CAY16-2201F4LF</value>
+      <footprint>CAY16_BRN</footprint>
+      <datasheet>CAY16-2201F4LF</datasheet>
+      <libsource lib="CAY16-2201F4LF" part="CAY16-2201F4LF" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESD_schematic.kicad_sch"/>
+      <property name="ki_keywords" value="CAY16-2201F4LF"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e03f9c7e-33e6-4f5c-88f7-9c6108ea70b5</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>CAY16-2201F4LF</value>
+      <footprint>CAY16_BRN</footprint>
+      <datasheet>CAY16-2201F4LF</datasheet>
+      <libsource lib="CAY16-2201F4LF" part="CAY16-2201F4LF" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESD_schematic.kicad_sch"/>
+      <property name="ki_keywords" value="CAY16-2201F4LF"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9206fa20-d316-439c-93c5-64a8b3fc91d9</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="CAY16-2201F4LF" part="CAY16-2201F4LF">
+      <docs>CAY16-2201F4LF</docs>
+      <footprints>
+        <fp>CAY16_BRN</fp>
+        <fp>CAY16_BRN-M</fp>
+        <fp>CAY16_BRN-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">CAY16-2201F4LF</field>
+        <field name="Footprint">CAY16_BRN</field>
+        <field name="Datasheet">CAY16-2201F4LF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+        <pin num="4" name="4" type="unspecified"/>
+        <pin num="5" name="5" type="unspecified"/>
+        <pin num="6" name="6" type="unspecified"/>
+        <pin num="7" name="7" type="unspecified"/>
+        <pin num="8" name="8" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="CKCL44X7R1H102M085AA" part="CKCL44X7R1H102M085AA">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CKCL44X7R1H102M085AA</field>
+        <field name="Footprint">CKCL44X7R1H102M085AA:CAPCAF50P200X125X85-8</field>
+        <field name="MF">TDK</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.85 mm</field>
+        <field name="Package">0805 TDK Corporation</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">Dec 2014</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/CKCL44X7R1H102M085AA/TDK-Lambda+Americas+Inc/view-part/?ref=snap</field>
+        <field name="MP">CKCL44X7R1H102M085AA</field>
+        <field name="Description">
+1000pF Isolated Capacitor Array 50V X7R 0805 (2012 Metric)
+</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">TDK</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPD4E1B06DCKR" part="TPD4E1B06DCKR">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">TPD4E1B06DCKR</field>
+        <field name="Footprint">TPD4E1B06DCKR:TVS_TPD4E1B06DCKR</field>
+        <field name="MF">Texas Instruments</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.1 mm</field>
+        <field name="Package">SOT-SC70-6 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">C</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TPD4E1B06DCKR/Texas+Instruments/view-part/?ref=snap</field>
+        <field name="MP">TPD4E1B06DCKR</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=46121&amp;manufacturer=Texas Instruments&amp;part_name=TPD4E1B06DCKR&amp;search_term=tpd4e1b06dckr</field>
+        <field name="Description">
+Quad 0.7-pF, ±5.5-V, ±12-kV ESD protection diode with 0.5-nA max leakage in SOT &amp; SC70 packages
+</field>
+        <field name="MANUFACTURER">Texas Instruments</field>
+        <field name="Availability">In Stock</field>
+        <field name="SNAPEDA_PN">TPD4E1B06DCKR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+        <pin num="3" name="" type="power_in"/>
+        <pin num="4" name="" type="bidirectional"/>
+        <pin num="5" name="" type="bidirectional"/>
+        <pin num="6" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="CAY16-2201F4LF">
+      <uri>C:\Users\91999\Downloads\CAY16_2201F4LF\KiCADv6\2024-02-12_08-56-49.kicad_sym</uri>
+    </library>
+    <library logical="CKCL44X7R1H102M085AA">
+      <uri>C:\Users\91999\Downloads\CKCL44X7R1H102M085AA\CKCL44X7R1H102M085AA.kicad_sym</uri>
+    </library>
+    <library logical="TPD4E1B06DCKR">
+      <uri>C:\Users\91999\Downloads\TPD4E1B06DCKR\TPD4E1B06DCKR.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/1N">
+      <node ref="D4" pin="4" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="2" name="/1P">
+      <node ref="D5" pin="1" pintype="bidirectional"/>
+      <node ref="R1" pin="2" pinfunction="2" pintype="unspecified"/>
+    </net>
+    <net code="3" name="/2N">
+      <node ref="D4" pin="2" pintype="bidirectional"/>
+      <node ref="R2" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="4" name="/2P">
+      <node ref="D4" pin="5" pintype="bidirectional"/>
+      <node ref="R2" pin="4" pinfunction="4" pintype="unspecified"/>
+    </net>
+    <net code="5" name="/3N">
+      <node ref="D3" pin="4" pintype="bidirectional"/>
+      <node ref="R2" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="6" name="/3P">
+      <node ref="D4" pin="1" pintype="bidirectional"/>
+      <node ref="R2" pin="2" pinfunction="2" pintype="unspecified"/>
+    </net>
+    <net code="7" name="/4N">
+      <node ref="D3" pin="2" pintype="bidirectional"/>
+      <node ref="R3" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="8" name="/4P">
+      <node ref="D3" pin="5" pintype="bidirectional"/>
+      <node ref="R3" pin="4" pinfunction="4" pintype="unspecified"/>
+    </net>
+    <net code="9" name="/5N">
+      <node ref="D2" pin="4" pintype="bidirectional"/>
+      <node ref="R3" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="10" name="/5P">
+      <node ref="D3" pin="1" pintype="bidirectional"/>
+      <node ref="R3" pin="2" pinfunction="2" pintype="unspecified"/>
+    </net>
+    <net code="11" name="/6N">
+      <node ref="D2" pin="2" pintype="bidirectional"/>
+      <node ref="R4" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="12" name="/6P">
+      <node ref="D2" pin="5" pintype="bidirectional"/>
+      <node ref="R4" pin="4" pinfunction="4" pintype="unspecified"/>
+    </net>
+    <net code="13" name="/7N">
+      <node ref="D1" pin="4" pintype="bidirectional"/>
+      <node ref="R4" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="14" name="/7P">
+      <node ref="D2" pin="1" pintype="bidirectional"/>
+      <node ref="R4" pin="2" pinfunction="2" pintype="unspecified"/>
+    </net>
+    <net code="15" name="/8N">
+      <node ref="D1" pin="2" pintype="bidirectional"/>
+      <node ref="R6" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="16" name="/8P">
+      <node ref="D1" pin="5" pintype="bidirectional"/>
+      <node ref="R6" pin="4" pinfunction="4" pintype="unspecified"/>
+    </net>
+    <net code="17" name="/AGND">
+      <node ref="D6" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/AVDD">
+      <node ref="D6" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/AVSS">
+      <node ref="D5" pin="4" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/BIAS">
+      <node ref="D6" pin="4" pintype="bidirectional"/>
+      <node ref="R6" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="21" name="/BIAS_DRV">
+      <node ref="C6" pin="8" pintype="passive"/>
+      <node ref="R6" pin="8" pinfunction="8" pintype="unspecified"/>
+    </net>
+    <net code="22" name="/IN1N">
+      <node ref="C4" pin="5" pintype="passive"/>
+      <node ref="C4" pin="6" pintype="passive"/>
+      <node ref="C4" pin="7" pintype="passive"/>
+      <node ref="C4" pin="8" pintype="passive"/>
+      <node ref="R1" pin="5" pinfunction="5" pintype="unspecified"/>
+      <node ref="R1" pin="6" pinfunction="6" pintype="unspecified"/>
+      <node ref="R1" pin="7" pinfunction="7" pintype="unspecified"/>
+      <node ref="R1" pin="8" pinfunction="8" pintype="unspecified"/>
+    </net>
+    <net code="23" name="/IN2N">
+      <node ref="C3" pin="5" pintype="passive"/>
+      <node ref="C3" pin="6" pintype="passive"/>
+      <node ref="C3" pin="7" pintype="passive"/>
+      <node ref="C3" pin="8" pintype="passive"/>
+      <node ref="R2" pin="5" pinfunction="5" pintype="unspecified"/>
+      <node ref="R2" pin="6" pinfunction="6" pintype="unspecified"/>
+      <node ref="R2" pin="7" pinfunction="7" pintype="unspecified"/>
+      <node ref="R2" pin="8" pinfunction="8" pintype="unspecified"/>
+    </net>
+    <net code="24" name="/IN4N">
+      <node ref="C2" pin="6" pintype="passive"/>
+      <node ref="R3" pin="6" pinfunction="6" pintype="unspecified"/>
+    </net>
+    <net code="25" name="/IN4P">
+      <node ref="C2" pin="5" pintype="passive"/>
+      <node ref="R3" pin="5" pinfunction="5" pintype="unspecified"/>
+    </net>
+    <net code="26" name="/IN5N">
+      <node ref="C2" pin="8" pintype="passive"/>
+      <node ref="R3" pin="8" pinfunction="8" pintype="unspecified"/>
+    </net>
+    <net code="27" name="/IN5P">
+      <node ref="C2" pin="7" pintype="passive"/>
+      <node ref="R3" pin="7" pinfunction="7" pintype="unspecified"/>
+    </net>
+    <net code="28" name="/IN6N">
+      <node ref="C1" pin="6" pintype="passive"/>
+      <node ref="R4" pin="6" pinfunction="6" pintype="unspecified"/>
+    </net>
+    <net code="29" name="/IN6P">
+      <node ref="C1" pin="5" pintype="passive"/>
+      <node ref="R4" pin="5" pinfunction="5" pintype="unspecified"/>
+    </net>
+    <net code="30" name="/IN7N">
+      <node ref="C1" pin="8" pintype="passive"/>
+      <node ref="R4" pin="8" pinfunction="8" pintype="unspecified"/>
+    </net>
+    <net code="31" name="/IN7P">
+      <node ref="C1" pin="7" pintype="passive"/>
+      <node ref="R4" pin="7" pinfunction="7" pintype="unspecified"/>
+    </net>
+    <net code="32" name="/IN8N">
+      <node ref="C6" pin="6" pintype="passive"/>
+      <node ref="R6" pin="6" pinfunction="6" pintype="unspecified"/>
+    </net>
+    <net code="33" name="/IN8P">
+      <node ref="C6" pin="5" pintype="passive"/>
+      <node ref="R6" pin="5" pinfunction="5" pintype="unspecified"/>
+    </net>
+    <net code="34" name="/SRB1">
+      <node ref="D5" pin="5" pintype="bidirectional"/>
+      <node ref="R1" pin="4" pinfunction="4" pintype="unspecified"/>
+    </net>
+    <net code="35" name="/SRB2">
+      <node ref="D5" pin="2" pintype="bidirectional"/>
+      <node ref="R1" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="36" name="GNDA">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C1" pin="3" pintype="passive"/>
+      <node ref="C1" pin="4" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C2" pin="3" pintype="passive"/>
+      <node ref="C2" pin="4" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C3" pin="3" pintype="passive"/>
+      <node ref="C3" pin="4" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C4" pin="3" pintype="passive"/>
+      <node ref="C4" pin="4" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C6" pin="3" pintype="passive"/>
+      <node ref="C6" pin="4" pintype="passive"/>
+      <node ref="C6" pin="7" pintype="passive"/>
+      <node ref="D1" pin="3" pintype="power_in"/>
+      <node ref="D2" pin="3" pintype="power_in"/>
+      <node ref="D3" pin="3" pintype="power_in"/>
+      <node ref="D4" pin="3" pintype="power_in"/>
+      <node ref="D5" pin="3" pintype="power_in"/>
+      <node ref="D6" pin="3" pintype="power_in"/>
+      <node ref="R6" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="R6" pin="7" pinfunction="7" pintype="unspecified"/>
+    </net>
+    <net code="37" name="unconnected-(D1-NC-Pad6)">
+      <node ref="D1" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(D1-Pad1)">
+      <node ref="D1" pin="1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(D2-NC-Pad6)">
+      <node ref="D2" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(D3-NC-Pad6)">
+      <node ref="D3" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(D4-NC-Pad6)">
+      <node ref="D4" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(D5-NC-Pad6)">
+      <node ref="D5" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(D6-NC-Pad6)">
+      <node ref="D6" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(D6-Pad5)">
+      <node ref="D6" pin="5" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>

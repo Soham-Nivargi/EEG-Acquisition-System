@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32F103C8T6TR
+D ARM Microcontrollers - MCU 32BIT Cortex M3 USB 7 TIMERS 2 ADCS CAN
+K
+F http://media.digikey.com/pdf/Data%20Sheets/ST%20Microelectronics%20PDFS/STM32F103x8,B.pdf
+$ENDCMP
+#
+#End Doc Library
